@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 gradesDue.py $1
